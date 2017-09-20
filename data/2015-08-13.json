@@ -1,0 +1,670 @@
+[
+    {"name":"angularjs","score": 62,"family": "Web & Mobile", "subfamily": "Front-End", "family-business": "Web & Mobile", "subfamily-business": "User Interfaces",
+    "rnd": 0.12,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/angular/angular.js/",
+          "metrics":[{"name": "committers", "value": 1298}, {"name": "stars", "value": 41548}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/angularjs",
+          "metrics": [{"name": "stacks", "value": 481}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 108}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+angularjs",
+          "metrics": [{"name": "mentions", "value": 261}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/angularjs/",
+          "metrics": [{"name": "conferences", "value": 165}, {"name": "presentations", "value": 14}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/product/angularjs",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "MIT License", "link": "https://github.com/angular/angular.js/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22angularjs%22",
+      "value":[{"name": "eCommerce"}]
+    },
+    "tags" : ["ecommerce"],
+    "colorfamily" : "#f21b07", "colorsubfamily" : "#F24607",
+    "news"  : [{"link":"http://www.eweek.com/developer/appery.io-surpasses-250k-users-adds-app-sharing-more.html","title":"Appery.io Surpasses 250K Users, Adds App Sharing, More","date":"14 August 2015","formattedDate":"14/08/2015"},{"link":"http://www.eweek.com/developer/appery.io-integrates-ionic-sdk-for-html5-app-dev.html","title":"Appery.io Integrates Ionic SDK for HTML5 App Dev","date":"16 July 2015","formattedDate":"16/07/2015"},{"link":"http://www.infoworld.com/article/2937159/application-development/mean-vs-lamp-your-next-programming-project.html","title":"MEAN vs. LAMP for the future of programming","date":"22 June 2015","formattedDate":"22/06/2015"}]
+    },
+
+    {"name":"jquery","score": 60,"family": "Web & Mobile", "subfamily": "Front-End", "family-business": "Web & Mobile", "subfamily-business": "User Interfaces",
+    "rnd": 0.77,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/jquery/jquery",
+          "metrics":[{"name": "committers", "value": 227}, {"name": "stars", "value": 35556}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/jquery",
+          "metrics": [{"name": "stacks", "value": 1179}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 129}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+jquery",
+          "metrics": [{"name": "mentions", "value": 391}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/jquery",
+          "metrics": [{"name": "conferences", "value": 150}, {"name": "presentations", "value": 115}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/product/jquery",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "MIT License", "link": "https://github.com/jquery/jquery/blob/master/LICENSE.txt"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22jquery%22",
+      "value":
+      [
+        {"name": "eCommerce", "value":6},
+        {"name": "Consumer electronics", "value":2},{"name": "Financial Services", "value":2},
+        {"name": "Media & Entertainment", "value":2},{"name": "Retail", "value":1},
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["ecommerce", "consumer", "electronics", "financial", "services", "media", "entertainment", "retail"],
+    "colorfamily" : "#f21b07", "colorsubfamily" : "#F24607",
+    "news"  : [{"link":"https://www.techdirt.com/articles/20150811/09385231912/daily-deal-coding-101-bundle.shtml","title":"Daily Deal: Coding 101 Bundle","date":"11 August 2015","formattedDate":"11/08/2015"},{"link":"http://thenextweb.com/offers/2015/07/30/top-e-learning-deals-over-90-off/","title":"Top e-learning deals – over 90% off!","date":"30 July 2015","formattedDate":"30/07/2015"},{"link":"http://www.alleywatch.com/2015/07/conquered-anxiety-learned-love-coding-3-tweaks/","title":"How I Conquered Anxiety and Learned to Love Coding: 3 Tweaks","date":"29 July 2015","formattedDate":"29/07/2015"},{"link":"http://thenextweb.com/dd/2015/07/24/marketing-the-tnw-way-2-deep-dive-on-ab-testing/","title":"Marketing the TNW way #2: Deep dive on A/B testing","date":"24 July 2015","formattedDate":"24/07/2015"}]
+    },
+
+    {"name":"reactjs","score": 42,"family": "Web & Mobile", "subfamily": "Front-End", "family-business": "Web & Mobile", "subfamily-business": "User Interfaces",
+    "rnd": 0.62,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/facebook/react",
+          "metrics":[{"name": "committers", "value": 479}, {"name": "stars", "value": 26339}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/react",
+          "metrics": [{"name": "stacks", "value": 135}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 5}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+jquery",
+          "metrics": [{"name": "mentions", "value": 13}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/jquery",
+          "metrics": [{"name": "conferences", "value": 8}, {"name": "presentations", "value": 1}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/product/react-10",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "BSD License", "link": "https://github.com/facebook/react/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22react.js%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["services"],
+    "colorfamily" : "#f21b07", "colorsubfamily" : "#F24607"
+    },
+
+
+
+    {"name":"spring","score": 53,"family": "Web & Mobile", "subfamily": "Back-End", "family-business": "Web & Mobile", "subfamily-business": "Services",
+    "rnd": 0.61,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/spring-projects/spring-framework",
+          "metrics":[{"name": "committers", "value": 128}, {"name": "stars", "value": 6247}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/spring",
+          "metrics": [{"name": "stacks", "value": 49}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 70}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+jquery",
+          "metrics": [{"name": "mentions", "value": 48}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/spring",
+          "metrics": [{"name": "conferences", "value": 94}, {"name": "presentations", "value": 35}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/springsource",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":37.3}]}
+      ],
+    "license": {"name": "Apache License 2.0", "link": "http://www.apache.org/licenses/LICENSE-2.0"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22spring%20framework%22",
+      "value":
+      [
+        {"name": "IT Services", "value":2},
+        {"name": "Consumer electronics", "value":1},{"name": "Financial Services", "value":1},
+        {"name": "Travel", "value":1}
+      ]
+    },
+    "tags" : ["consumer", "electronics", "financial", "services", "travel"],
+    "colorfamily" : "#f21b07", "colorsubfamily" : "#F27507",
+    "news"  : [{"link":"http://venturebeat.com/2015/06/28/game-changer-goodbye-disk-hello-superfast-in-memory-databases/","title":"Game changer: Goodbye disk, hello superfast in-memory databases","date":"28 June 2015","formattedDate":"28/06/2015"},{"link":"http://pevc.dowjones.com/article?an=DJFVW00020121108e8b8asj8g&ReturnUrl=http%3a%2f%2fpevc.dowjones.com%2farticle%3fan%3dDJFVW00020121108e8b8asj8g%26%3d","title":"With SpringSource Roots, Elasticsearch Lands $10M for Big-Data Search ","date":"8 November 2012","formattedDate":"08/11/2012"},{"link":"http://www.eweek.com/developer/groovy-language-proposed-as-apache-incubator-project.html","title":"Groovy Language Proposed as Apache Incubator Project","date":"11 March 2015","formattedDate":"11/03/2015"},{"link":"http://www.bloomberg.com/news/articles/2014-11-10/hortonworks-files-for-ipo","title":"Hortonworks Files to Sell Shares in IPO of Hadoop Company","date":"10 November 2014","formattedDate":"10/11/2014"}]
+    },
+
+    {"name":"django","score": 58,"family": "Web & Mobile", "subfamily": "Back-End", "family-business": "Web & Mobile", "subfamily-business": "Services",
+    "rnd": 0.53,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/django/django",
+          "metrics":[{"name": "committers", "value": 951}, {"name": "stars", "value": 15522}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/django",
+          "metrics": [{"name": "stacks", "value": 154}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 49}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+django",
+          "metrics": [{"name": "mentions", "value": 577}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/jquery",
+          "metrics": [{"name": "conferences", "value": 284}, {"name": "presentations", "value": 198}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "BSD License", "link": "https://github.com/django/django/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22django%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "colorfamily" : "#f21b07", "colorsubfamily" : "#F27507",
+    "tags" : ["services"],
+    "news"  : [{"link":"http://techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/","title":"How To Build A Web App in Four Days For $10,000 (Say Hello To Matt)","date":"03 July 2008","formattedDate":"03/07/2008"},{"link":"http://techcrunch.com/video/adrian-holovaty-of-django/517536329/","title":"Adrian Holovaty of Django","date":"11 November 2012","formattedDate":"11/11/2012"},{"link":"http://techcrunch.com/2013/09/05/nitrous-ios-packaged-chrome-app-turns-chromebooks-into-full-blown-developer-machines/","title":"Nitrous.IO’s Packaged Chrome App Turns Chromebooks Into Full-Blown Developer Machines","date":"5 September 2013","formattedDate":"05/09/2013"},{"link":"http://venturebeat.com/2014/11/04/cloud9-raises-new-funding-because-your-web-development-really-belongs-in-the-cloud/","title":"Cloud9 raises new funding because your Web & Mobile really belongs in the cloud","date":"4 November 2014","formattedDate":"04/11/2014"}]
+
+    },
+
+    {"name":"symfony","score": 50,"family": "Web & Mobile", "subfamily": "Back-End", "family-business": "Web & Mobile", "subfamily-business": "Services",
+    "rnd": 0.25,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/symfony/symfony",
+          "metrics":[{"name": "committers", "value": 1176}, {"name": "stars", "value": 10617}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/symfony",
+          "metrics": [{"name": "stacks", "value": 48}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 10}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+jquery",
+          "metrics": [{"name": "mentions", "value": 70}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/symfony",
+          "metrics": [{"name": "conferences", "value": 49}, {"name": "presentations", "value": 21}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/sensio-labs",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":6.9}]}
+      ],
+    "license": {"name": "MIT License", "link": "https://github.com/symfony/symfony/blob/2.8/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22symfony%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+
+    "tags" : ["services"],
+    "colorfamily" : "#F2CB05", "colorsubfamily" : "#F27507",
+    "news"  : [{"link":"http://techcrunch.com/2013/12/18/sensiolabs-raises-6-9-million-to-implement-its-php-framework-symfony-everywhere/","title":"SensioLabs Raises $6.9 Million To Implement Its PHP Framework ‘Symfony’ Everywhere","date":"18 December 2013","formattedDate":"18/12/2013"},{"link":"http://techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/","title":"How To Build A Web App in Four Days For $10,000 (Say Hello To Matt)","date":"3 July 2008","formattedDate":"03/07/2008"}]
+    },
+
+
+
+    {"name":"cucumber","score": 23,"family": "IT Operations", "subfamily": "Testing", "family-business": "IT Operations", "subfamily-business": "Quality Assurance",
+    "rnd": 0.59,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/cucumber/cucumber-ruby",
+          "metrics":[{"name": "committers", "value": 275}, {"name": "stars", "value": 4875}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/search/q=cucumber#",
+          "metrics": [{"name": "stacks", "value": 0}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 18}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+cucumber+AND+testing",
+          "metrics": [{"name": "mentions", "value": 3}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/cucumber",
+          "metrics": [{"name": "conferences", "value": 17}, {"name": "presentations", "value": 5}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/cucumber-2",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "MIT License", "link": "https://github.com/cucumber/cucumber-ruby/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22cucumber%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["services"],
+    "colorfamily" : "#FECF19", "colorsubfamily" : "#FEDB56"
+    },
+
+    {"name":"selenium","score": 32,"family": "IT Operations", "subfamily": "Testing", "family-business": "IT Operations", "subfamily-business": "Quality Assurance",
+    "rnd": 0.72,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/SeleniumHQ/selenium",
+          "metrics":[{"name": "committers", "value": 156}, {"name": "stars", "value": 1528}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/selenium",
+          "metrics": [{"name": "stacks", "value": 87}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 27}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+selenium+AND+testing",
+          "metrics": [{"name": "mentions", "value": 65}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/selenium",
+          "metrics": [{"name": "conferences", "value": 20}, {"name": "presentations", "value": 12}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/selenium-conference",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "Apache License 2.0", "link": "https://github.com/SeleniumHQ/selenium/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22selenium%22",
+      "value":
+      [
+        {"name": "eCommerce", "value":1},
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["ecommerce", "services"],
+    "colorfamily" : "#FECF19", "colorsubfamily" : "#FEDB56"
+    },
+
+    {"name":"phantomjs","score": 24,"family": "IT Operations", "subfamily": "Testing", "family-business": "IT Operations", "subfamily-business": "Quality Assurance",
+    "rnd": 0.44,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/ariya/phantomjs",
+          "metrics":[{"name": "committers", "value": 114}, {"name": "stars", "value": 14890}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/phantomjs",
+          "metrics": [{"name": "stacks", "value": 4}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 15}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+phantomjs",
+          "metrics": [{"name": "mentions", "value": 2}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/phantomjs",
+          "metrics": [{"name": "conferences", "value": 5}, {"name": "presentations", "value": 1}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/product/phantomjs",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "BSD License", "link": "https://github.com/ariya/phantomjs/blob/master/LICENSE.BSD"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22phantomjs%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["services"],
+      "colorfamily" : "#FECF19", "colorsubfamily" : "#FEDB56"
+    },
+
+
+
+    {"name":"mysql","score": 55,"family": "Data & Analytics", "subfamily": "SQL", "family-business": "Data & Analytics", "subfamily-business": "Databases",
+    "rnd": 0.77,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/mysql/mysql-server",
+          "metrics":[{"name": "committers", "value": 41}, {"name": "stars", "value": 607}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/mysql",
+          "metrics": [{"name": "stacks", "value": 485}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 128}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+mysql",
+          "metrics": [{"name": "mentions", "value": 1549}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/mysql",
+          "metrics": [{"name": "conferences", "value": 98}, {"name": "presentations", "value": 28}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/mysql",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":19.5}]}
+      ],
+    "license": {"name": "GPL-based licenses", "link": "https://github.com/mysql/mysql-server/blob/5.7/COPYING"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22mysql%22",
+      "value":
+      [
+        {"name": "IT Services", "value":20},
+        {"name": "eCommerce", "value":7},
+        {"name": "Retail", "value":4},
+        {"name": "Financial Services", "value":3},
+        {"name": "Healthcare", "value":2},
+        {"name": "Manufacturing", "value":2},
+        {"name": "Public Sector", "value":2},
+        {"name": "Energy & Utilities", "value":1},
+        {"name": "Media & Entertainment", "value":1}
+      ]
+    },
+    "tags" : ["services", "ecommerce", "retail", "financial", "services", "healthcare",
+      "manufacturing", "energy", "utilities", "media", "entertainment"],
+    "colorfamily" : "#234373", "colorsubfamily" : "#5093F3",
+    "news"  : [{"link":"http://www.zdnet.com/article/hortonworks-results-databricks-release-and-more-top-the-weeks-big-data-news/","title":"Hortonworks results, Databricks release and more top the week's Big Data news","date":"7 de August 2015","formattedDate":"07/08/2015"},{"link":"http://www.techrepublic.com/article/hadoop-complexity-is-part-of-the-master-plan-says-cloudera-exec/","title":"Hadoop will never be a discrete project that is easily understood, and that's part of its charm. ","date":"4 de August 2015","formattedDate":"04/08/2015"},{"link":"http://thenextweb.com/offers/2015/07/30/top-e-learning-deals-over-90-off/","title":"Top e-learning deals – over 90% off!","date":"30 July 2015","formattedDate":"30/07/2015"},{"link":"http://www.zdnet.com/article/amazons-mysql-challenger-aurora-exits-preview/","title":"Amazon's MySQL database challenger Aurora exits preview","date":"28 July 2015","formattedDate":"28/07/2015"}]
+    },
+
+    {"name":"postgres","score": 45,"family": "Data & Analytics", "subfamily": "SQL", "family-business": "Data & Analytics", "subfamily-business": "Databases",
+    "rnd": 0.15,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/postgres/postgres",
+          "metrics":[{"name": "committers", "value": 22}, {"name": "stars", "value": 1593}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/postgresql",
+          "metrics": [{"name": "stacks", "value": 370}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 123}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+postgres",
+          "metrics": [{"name": "mentions", "value": 190}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/postgresql",
+          "metrics": [{"name": "conferences", "value": 51}, {"name": "presentations", "value": 47}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/postgresql",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "Other open source licenses", "link": "http://opensource.org/licenses/postgresql"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22postgres%22",
+      "value":
+      [
+        {"name": "IT Services", "value":3}
+      ]
+    },
+    "tags" : ["services"],
+      "colorfamily" : "#234373", "colorsubfamily" : "#5093F3",
+    "news"  : [{"link":"http://www.eweek.com/servers/ibm-doubles-down-on-linux-with-new-mainframe.html","title":"IBM Doubles Down on Linux With New Mainframe","date":"17 August 2008","formattedDate":"17/08/2008"},{"link":"http://www.zdnet.com/article/hortonworks-results-databricks-release-and-more-top-the-weeks-big-data-news/","title":"Hortonworks results, Databricks release and more top the week's Big Data news","date":"7 August 2015","formattedDate":"07/08/2015"},{"link":"http://www.zdnet.com/article/ibm-amazon-cloudera-announcements-big-news-in-big-data/","title":"IBM, Cloudera, Amazon announcements: Big Data news roundup","date":"31 July 2015","formattedDate":"31/07/2015"},{"link":"http://www.zdnet.com/article/amazons-mysql-challenger-aurora-exits-preview/","title":"Amazon's MySQL database challenger Aurora exits preview","date":"28 July 2015","formattedDate":"28/07/2015"}]
+    },
+
+    {"name":"sqlite","score": 14,"family": "Data & Analytics", "subfamily": "SQL", "family-business": "Data & Analytics", "subfamily-business": "Databases",
+    "rnd": 0.53,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/mackyle/sqlite",
+          "metrics":[{"name": "committers", "value": 9}, {"name": "stars", "value": 228}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/sqlite",
+          "metrics": [{"name": "stacks", "value": 41}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 23}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+sqlite",
+          "metrics": [{"name": "mentions", "value": 166}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/sqlite",
+          "metrics": [{"name": "conferences", "value": 0}, {"name": "presentations", "value": 0}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/sqlite",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "Other open source licenses", "link": "https://en.wikipedia.org/wiki/Public_domain"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22sqlite%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["services"],
+      "colorfamily" : "#234373", "colorsubfamily" : "#5093F3"
+    },
+
+
+    {"name":"mongodb","score": 77,"family": "Data & Analytics", "subfamily": "NoSQL", "family-business": "Data & Analytics", "subfamily-business": "Databases",
+    "rnd": 0.25,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/mongodb/mongo",
+          "metrics":[{"name": "committers", "value": 225}, {"name": "stars", "value": 7725}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/mongodb",
+          "metrics": [{"name": "stacks", "value": 334}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 66}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+mongo",
+          "metrics": [{"name": "mentions", "value": 214}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/mongodb",
+          "metrics": [{"name": "conferences", "value": 219}, {"name": "presentations", "value": 153}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/mongodb-inc",
+          "metrics": [{"name": "funds last year", "value":80}, {"name": "funds 10 years", "value":311.11}]}
+      ],
+    "license": {"name": "Apache License 2.0", "link": "https://github.com/mongodb/mongo/blob/master/APACHE-2.0.txt"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22mongo%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["services"],
+      "colorfamily" : "#F2B84B", "colorsubfamily" : "#D95D30",
+    "news"  : [{"link":"http://www.techrepublic.com/article/apache-spark-is-doomed/","title":"Apache Spark is doomed","date":"18 August 2015","formattedDate":"18/08/2015"},{"link":"http://www.eweek.com/database/mongodb-strengthens-ibm-partnership-adds-mainframe-support.html","title":"MongoDB Strengthens IBM Partnership, Adds Mainframe Support","date":"17 August 2015","formattedDate":"17/08/2015"},{"link":"http://www.eweek.com/cloud/red-hat-invests-in-openstack-cloud-database-as-a-service-vendor-tesora.html","title":"Red Hat Invests in OpenStack Cloud Database as a Service Vendor Tesora","date":"13 August, 2015","formattedDate":"13/08/2015"},{"link":"http://www.infoworld.com/article/2956194/application-development/the-real-dirt-on-programming-certifications.html","title":"The real dirt on programming certifications","date":"10 August 2015","formattedDate":"10/08/2015"}]
+
+    },
+
+    {"name":"cassandra","score": 58,"family": "Data & Analytics", "subfamily": "NoSQL", "family-business": "Data & Analytics", "subfamily-business": "Databases",
+    "rnd": 0.32,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/apache/cassandra",
+          "metrics":[{"name": "committers", "value": 108}, {"name": "stars", "value": 2222}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/cassandra",
+          "metrics": [{"name": "stacks", "value": 54}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 47}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+cassandra",
+          "metrics": [{"name": "mentions", "value": 707}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/cassandra",
+          "metrics": [{"name": "conferences", "value": 41}, {"name": "presentations", "value": 27}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/datastax",
+          "metrics": [{"name": "funds last year", "value":106}, {"name": "funds 10 years", "value":189.7}]}
+      ],
+    "license": {"name": "Apache License 2.0", "link": "https://github.com/apache/cassandra/blob/trunk/LICENSE.txt"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22cassandra%22",
+      "value":
+      [
+        {"name": "IT Services", "value":2},
+        {"name": "Financial Services", "value":1}
+      ]
+    },
+    "tags" : ["financial", "services"],
+      "colorfamily" : "#F2B84B", "colorsubfamily" : "#D95D30",
+    "news"  : [{"link":"http://www.zdnet.com/article/datastaxs-cassandra-hitches-a-ride-on-hps-moonshot/","title":"DataStax's Cassandra hitches a ride on HP's Moonshot","date":"14 April 2015","formattedDate":"14/04/2015"},{"link":"http://www.zdnet.com/article/redis-labs-secures-multi-million-injection-to-help-compete-with-mongodb-and-cassandra/","title":"​Redis Labs secures multi-million injection to help compete with MongoDB and Cassandra","date":"25 June 2015","formattedDate":"25/06/2015"},{"link":"http://venturebeat.com/2015/02/03/datastax-acquires-aurelius-the-startup-behind-the-titan-graph-database/","title":"DataStax acquires Aurelius, the startup behind the Titan graph database","date":"3 February 2015","formattedDate":"03/02/2015"},{"link":"http://techcrunch.com/2015/02/03/datastax-plots-aurelius-graph-database-acquihire/","title":"DataStax Grabs Aurelius In Graph Database Acqui-Hire","date":"3 February 2015","formattedDate":"03/02/2015"}]
+
+    },
+
+    {"name":"neo4j","score": 43,"family": "Data & Analytics", "subfamily": "NoSQL", "family-business": "Data & Analytics", "subfamily-business": "Databases",
+    "rnd": 0.73,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/neo4j/neo4j",
+          "metrics":[{"name": "committers", "value": 108}, {"name": "stars", "value": 1874}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/neo4j",
+          "metrics": [{"name": "stacks", "value": 20}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 6}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+neo4j",
+          "metrics": [{"name": "mentions", "value": 296}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/neo4j",
+          "metrics": [{"name": "conferences", "value": 54}, {"name": "presentations", "value": 11}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/neo-technology",
+          "metrics": [{"name": "funds last year", "value":20}, {"name": "funds 10 years", "value":44.1}]}
+      ],
+    "license": {"name": "GPL-based licenses", "link": "https://github.com/neo4j/neo4j/blob/2.3/enterprise/LICENSE.txt"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22neo4j%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["services"],
+      "colorfamily" : "#F2B84B", "colorsubfamily" : "#D95D30",
+    "news"  : [{"link":"http://www.eweek.com/database/neo-technology-launches-graph-database-partner-program.html","title":"Neo Technology Launches Graph Database Partner Program","date":"5 May 2015","formattedDate":"05/05/2015"},{"link":"http://siliconangle.com/blog/2015/02/24/why-graph-databases-are-perfect-for-the-internet-of-things/","title":"Why graph databases are perfect for the Internet of Things","date":"24 February 2015","formattedDate":"24/02/2015"},{"link":"http://www.zdnet.com/article/datastax-snaps-up-aurelius-and-its-titan-team-to-build-new-graph-database/","title":"DataStax snaps up Aurelius and its Titan team to build new graph database","date":"3 February 2015","formattedDate":"03/02/2015"},{"link":"http://www.techworld.com/big-data/big-data-digest-how-many-hadoops-do-we-need-3594380/","title":"Big Data Digest: How many Hadoops do we need?","date":"19 January 2015","formattedDate":"19/01/2015"}]
+
+    },
+
+
+
+    {"name":"docker","score": 87,"family": "IT Operations", "subfamily": "DevOps", "family-business": "IT Operations", "subfamily-business": "IT Management",
+    "rnd": 0.44,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/docker/docker",
+          "metrics":[{"name": "committers", "value": 1048}, {"name": "stars", "value": 23977}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/docker",
+          "metrics": [{"name": "stacks", "value": 270}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 110}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+docker",
+          "metrics": [{"name": "mentions", "value": 7712}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/docker",
+          "metrics": [{"name": "conferences", "value": 70}, {"name": "presentations", "value": 12}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/docker",
+          "metrics": [{"name": "funds last year", "value":135}, {"name": "funds 10 years", "value":162}]}
+      ],
+    "license": {"name": "Apache License 2.0", "link": "https://github.com/docker/docker/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22docker%22",
+      "value":
+      [
+        {"name": "IT Services", "value":5},
+        {"name": "Financial Services", "value":2},{"name": "Public Sector", "value":1}
+      ]
+    },
+    "tags" : ["financial", "services"],
+    "colorfamily" : "#861C1E", "colorsubfamily" : "#AA2426",
+    "news"  :[{"link":"http://www.computerworld.com.au/article/582421/microsoft-buddies-up-docker-windows-server-containers/","title":"Microsoft buddies up to Docker with Windows Server Containers","date":"19 August 2015","formattedDate":"19/08/2015"},{"link":"http://www.computerworld.com/article/2973103/application-development/microsoft-yes-microsoft-ups-the-container-ante.html","title":"Microsoft (yes, Microsoft!) ups the container ante","date":"19 August 2015","formattedDate":"19/08/2015"},{"link":"http://www.techweekeurope.co.uk/cloud/microsoft-windows-server-2016-containers-175144","title":"Microsoft Unveils First Glimpse Of Windows Server 2016 Containers","date":"19 August 2015","formattedDate":"19/08/2015"},{"link":"http://www.geekwire.com/2015/microsoft-releases-first-windows-server-container-preview-under-docker-partnership/","title":"Microsoft releases first Windows Server Container preview under Docker partnership","date":"19 August 2015","formattedDate":"19/08/2015"}]
+    },
+
+    {"name":"vagrant","score": 56,"family": "IT Operations", "subfamily": "DevOps", "family-business": "IT Operations", "subfamily-business": "IT Management",
+    "rnd": 0.77,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/mitchellh/vagrant",
+          "metrics":[{"name": "committers", "value": 560}, {"name": "stars", "value": 9950}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/vagrant",
+          "metrics": [{"name": "stacks", "value": 211}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 28}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+vagrant",
+          "metrics": [{"name": "mentions", "value": 180}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/vagrant",
+          "metrics": [{"name": "conferences", "value": 19}, {"name": "presentations", "value": 23}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/hashicorp",
+          "metrics": [{"name": "funds last year", "value":10}, {"name": "funds 10 years", "value":10}]}
+      ],
+    "license": {"name": "MIT License", "link": "https://github.com/mitchellh/vagrant/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22vagrant%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["services"],
+    "tags" : ["eCommerce", "Consumer electronics", "Media & Entertainment"],
+      "colorfamily" : "#861C1E", "colorsubfamily" : "#AA2426",
+    "news"  : [{"link":"http://www.eweek.com/enterprise-apps/hashicorp-unveils-devops-data-center-automation-toolset.html","title":"HashiCorp Unveils DevOps Data Center Automation Toolset","date":"13 July 2015","formattedDate":"13/07/2015"},{"link":"http://www.eweek.com/security/hashicorp-debuts-open-source-vault-project-for-crypto-key-management.html","title":"HashiCorp Debuts Open-Source Vault Project for Crypto Key Management","date":"1 May 2015","formattedDate":"01/05/2015"},{"link":"http://venturebeat.com/2014/12/10/funding-daily-todays-tech-funding-news-in-one-place-23/","title":"Funding Daily: Today’s tech funding news, in one place","date":"10 December 2014","formattedDate":"10/12/2014"},{"link":"http://venturebeat.com/2014/07/28/terraform-hashicorp/","title":"Meet Terraform, a simple command-line tool to manage all your cloud infrastructure","date":"28 July 2014","formattedDate":"28/07/2014"}]
+
+    },
+
+    {"name":"kubernetes","score": 33,"family": "IT Operations", "subfamily": "DevOps", "family-business": "IT Operations", "subfamily-business": "IT Management",
+    "rnd": 0.2,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/kubernetes/kubernetes",
+          "metrics":[{"name": "committers", "value": 461}, {"name": "stars", "value": 9677}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/kubernetes",
+          "metrics": [{"name": "stacks", "value": 1}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 14}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+kubernetes",
+          "metrics": [{"name": "mentions", "value": 745}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/kubernetes",
+          "metrics": [{"name": "conferences", "value": 1}, {"name": "presentations", "value": 1}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":0}]}
+      ],
+    "license": {"name": "Apache License 2.0", "link": "https://github.com/kubernetes/kubernetes/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22kubernetes%22",
+      "value":
+      [
+        {"name": "eCommerce", "value":3},
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["ecommerce", "services"],
+      "colorfamily" : "#861C1E", "colorsubfamily" : "#AA2426"
+    },
+
+
+
+    {"name":"hadoop","score": 67,"family": "Data & Analytics", "subfamily": "Big Data", "family-business": "Data & Analytics", "subfamily-business": "Big Data",
+    "rnd": 0.49,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/apache/hadoop",
+          "metrics":[{"name": "committers", "value": 49}, {"name": "stars", "value": 917}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/hadoop",
+          "metrics": [{"name": "stacks", "value": 46}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 81}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+hadoop",
+          "metrics": [{"name": "mentions", "value": 7170}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/hadoop",
+          "metrics": [{"name": "conferences", "value": 169}, {"name": "presentations", "value": 56}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/hortonworks",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":248}]}
+      ],
+    "license": {"name": "Apache License 2.0", "link": "https://github.com/apache/hadoop/blob/trunk/LICENSE.txt"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22hadoop%22",
+      "value":
+      [
+        {"name": "IT Services", "value":21},
+        {"name": "eCommerce", "value":12},
+        {"name": "Financial Services", "value":8},
+        {"name": "Manufacturing", "value":7},
+        {"name": "Retail", "value":6},
+        {"name": "Consumer electronics", "value":4},
+        {"name": "Healthcare", "value":4},
+        {"name": "Media & Entertainment", "value":4},
+        {"name": "Travel", "value":4},
+        {"name": "Public Sector", "value":2},
+        {"name": "Energy & Utilities", "value":1},
+        {"name": "Transportation & Logistics", "value":1}
+      ]
+    },
+    "tags" : ["services", "ecommerce", "financial", "manufacturing", "retail", "consumer",
+      "healthcare", "media", "entertainment", "travel", "energy", "utilities", "transportation", "logistics"],
+    "colorfamily" : "#F2B84B", "colorsubfamily" : "#F2A03D",
+    "news"  :[{"link":"http://www.strictlyvc.com/2015/08/18/strictlyvc-august-18-2015/","title":"StrictlyVC: August 18, 2015","date":"18 August 2015","formattedDate":"18/08/2015"},{"link":"http://www.techrepublic.com/article/apache-spark-is-doomed/","title":"Apache Spark is doomed","date":"18 August 2015","formattedDate":"18/08/2015"},{"link":"http://www.zdnet.com/article/hadoop-veteran-ted-dunning-when-open-source-is-anything-but-open/","title":"Hadoop veteran Ted Dunning: When open source is anything but open","date":"18 August 2015","formattedDate":"18/08/2015"},{"link":"http://www.eweek.com/enterprise-apps/syntasa-aims-to-unlock-big-data-value-with-marketing-as-a-service.html","title":"Syntasa Aims to Unlock Big Data Value With Marketing as a Service","date":"9 August 2015","formattedDate":"09/08/2015"}]
+    },
+
+    {"name":"spark","score": 54,"family": "Data & Analytics", "subfamily": "Big Data", "family-business": "Data & Analytics", "subfamily-business": "Big Data",
+    "rnd": 0.21,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/apache/spark",
+          "metrics":[{"name": "committers", "value": 636}, {"name": "stars", "value": 5069}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/spark",
+          "metrics": [{"name": "stacks", "value": 11}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 63}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+%22apache+spark%22",
+          "metrics": [{"name": "mentions", "value": 521}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/apache-spark",
+          "metrics": [{"name": "conferences", "value": 4}, {"name": "presentations", "value": 1}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/databricks",
+          "metrics": [{"name": "funds last year", "value":0}, {"name": "funds 10 years", "value":47}]}
+      ],
+    "license": {"name": "Apache License 2.0", "link": "https://github.com/apache/spark/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22apache%20spark%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["services"],
+      "colorfamily" : "#F2B84B", "colorsubfamily" : "#F2A03D",
+    "news"  : [{"link":"http://www.zdnet.com/article/hortonworks-results-databricks-release-and-more-top-the-weeks-big-data-news/","title":"Hortonworks results, Databricks release and more top the week's Big Data news","date":"7 de August 2015","formattedDate":"07/08/2015"},{"link":"http://www.zdnet.com/article/how-databricks-is-beefing-up-its-apache-spark-cloud-platform/","title":"How Databricks is beefing up its Apache Spark cloud platform","date":"5 de August 2015","formattedDate":"05/08/2015"},{"link":"http://www.zdnet.com/article/cloud-analytics-whats-driving-growth/","title":"Cloud analytics: What's driving growth?","date":"23 July 2015","formattedDate":"23/07/2015"},{"link":"http://www.finsmes.com/2015/06/atscale-raises-7m-in-series-a-funding.html","title":"AtScale Raises $7M in Series A Funding","date":"23 June 2015","formattedDate":"23/06/2015"}]
+    },
+
+    {"name":"mesos","score": 23,"family": "IT Operations", "subfamily": "DevOps", "family-business": "IT Operations", "subfamily-business": "IT Management",
+    "rnd": 0.70,
+    "sources":
+      [
+        {"name": "github", "link": "https://github.com/apache/mesos",
+          "metrics":[{"name": "committers", "value": 96}, {"name": "stars", "value": 1159}]
+        },
+        {"name": "stackshare", "link": "http://stackshare.io/mesos",
+          "metrics": [{"name": "stacks", "value": 18}]},
+        {"name": "Tech blogs", "link": "http://github.com/kilimchoi/engineering-blogs",
+          "metrics": [{"name": "posts", "value": 16}]},
+        {"name": "Analyst blogs", "link": "https://www.google.es/search?q=site:radar.oreilly.com+OR+site:gigaom.com+OR+site:techcrunch.com+mesos",
+          "metrics": [{"name": "mentions", "value": 2165}]},
+        {"name": "lanyrd", "link": "http://lanyrd.com/topics/mesos",
+          "metrics": [{"name": "conferences", "value": 2}, {"name": "presentations", "value": 0}]},
+        {"name": "crunchbase", "link": "https://www.crunchbase.com/organization/mesosphere",
+          "metrics": [{"name": "funds last year", "value":36}, {"name": "funds 10 years", "value":48.8}]}
+      ],
+    "license": {"name": "Apache License 2.0", "link": "https://github.com/apache/mesos/blob/master/LICENSE"},
+    "sectors": {"link": "https://www.forrester.com/search?tmtxt=%22mesos%22",
+      "value":
+      [
+        {"name": "IT Services", "value":1}
+      ]
+    },
+    "tags" : ["services"],
+    "colorfamily": "#FF2C26",
+    "colorsubfamily": "#AA2426"
+    }
+]
