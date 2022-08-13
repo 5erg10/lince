@@ -1289,15 +1289,12 @@ angular.module("testProjectApp", ["ngCookies", "ngResource", "ngRoute", "ngSanit
                     });
                 }),
                 (a.dataSelectionDate = function (b, c) {
-                    var d = new Date().getDay();
-                    if (d >= 4) var f = d - 4;
-                    else var f = d + 3;
                     console.log("b y c: ",b, c);
                     console.log("slidefirst", a.slideFirst);
-                    var g = 7 * Math.abs(b - a.slideFirst) + f,
-                        h = 7 * Math.abs(c - a.slideFirst) + f;
-                    (a.date1 = e("date")(new Date("2016-05-27").setDate(new Date("2016-05-27").getDate() - g), "yyyy-MM-dd")),
-                        (a.date2 = e("date")(new Date("2016-05-27").setDate(new Date("2016-05-27").getDate() - h), "yyyy-MM-dd")),
+                    var g = 7 * Math.abs(b - a.slideFirst)+84,
+                        h = 7 * Math.abs(c - a.slideFirst);
+                    (a.date1 = e("date")(new Date("2016-05-26").setDate(new Date("2016-05-26").getDate() - g), "yyyy-MM-dd")),
+                        (a.date2 = e("date")(new Date("2016-05-26").setDate(new Date("2016-05-26").getDate() - h), "yyyy-MM-dd")),
                         console.log("fechas: ", a.date2, a.date1),
                         b != j && (a.sendInfoGA("slider", "select last date", a.date1), (j = b)),
                         c != i && (a.sendInfoGA("slider", "select first date", a.date2), (i = c)),
